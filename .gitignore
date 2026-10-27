@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+models/*.pkl
+data/dataset/*
+!data/dataset/.gitkeep
